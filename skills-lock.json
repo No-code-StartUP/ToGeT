@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"skills": {
+		"recommend": {
+			"source": "toss/es-toolkit",
+			"sourceType": "github",
+			"skillPath": "es-toolkit-plugin/skills/recommend/SKILL.md",
+			"computedHash": "635cf892797a95fb765fbb9c015b815e8704de5395401393938f54e60cc572fe"
+		},
+		"shadcn": {
+			"source": "shadcn-ui/ui",
+			"sourceType": "github",
+			"skillPath": "skills/shadcn/SKILL.md",
+			"computedHash": "c1a68ee06a668aced9ab2b5fbdea5f989864123794eb2e056b339a072dbb7f10"
+		}
+	}
+}
